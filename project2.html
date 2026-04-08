@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payoff Table</title>
+    <link rel="stylesheet" href="project2.css">
+</head>
+<body>
+    <div class="game"> <br> <br>
+        <h1 class="payoff "> Payoff Table </h1>
+     <pre class="roules">
+ *If both cooperate → both get 3 points
+ *If both betray → both get 1 point
+ *If you betray and computer cooperates → you get 5 points, computer gets 0
+ *If you cooperate and computer betrays → you get 0, computer gets
+    </pre>
+    <table  bgcolor="black", class="table" >
+        <tr bgcolor="grey"> 
+            <th > player  </th>
+            <th> Computer Cooperates </th>
+            <th>Computer Betrays</th>
+        </tr>
+        <tr bgcolor="lightgrey"> 
+            <td>You Cooperate :</td>
+            <td>You get 3 pts — Computer gets 3 pts</td>
+            <td>You get 0 pts — Computer gets 5 pts</td>
+          
+        </tr>
+        <tr  bgcolor="lightgrey">
+            <td> You Betray</td>
+            <td>You get 5 pts — Computer gets 0 pts</td>
+            <td>You get 1 pt — Computer gets 1 pt</td>
+        </tr>
+        
+    </table>
+
+    
+    </div>
+    <div class="button">
+    
+        <p> play now :</p>
+        <button>cooperate </button>
+        <button class="betray">  betray </button>
+    </div>
+  
+    <div class="computerplayerchose">
+        <strong> chose </strong>
+        <p>player chose :</p>
+        <p>computer chose : </p>
+
+    </div>
+    <div class="score">
+       <strong>score</strong>
+        <p>player score</p>
+        <P> computer score</P>
+    </div>
+    
+</body>
+</html>

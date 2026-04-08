@@ -1,0 +1,107 @@
+body{
+  
+    background-color: #c9a227;
+    width: auto;
+    margin: auto;
+    height: auto;
+    background-image: url(image/judge-hitting-mallet-court-trial-260nw-2250387095.webp);
+    background-size: 100%;
+
+
+}
+.game{
+background-color: #4b3621;
+width: 800px;
+margin: auto;
+border-radius: 40px;
+height: 300px;
+
+
+
+
+}
+.payoff{
+    background-color: #c9a227;
+        margin: auto;
+        width: 200px;
+        height: 50px;
+        border-radius: 30px;
+        text-align: center;
+        ma
+
+    
+}
+
+.roules{
+    text-align: center;
+    color: rgb(244, 244, 244);
+   
+}
+.table{
+    margin: auto;x  
+        font-size: 150%;
+}
+.button {
+  margin: 0px;
+  text-align: center; 
+ color: rgb(0, 0, 0);
+ font-size: 200%;
+ background-color:lightgrey ;
+ width: 400px;
+ border-radius: 25px;
+ margin: 20px auto;
+ p{
+    color:#000000;
+   
+    
+ }
+ 
+ 
+
+}
+button{
+    background-color:rgb(223, 216, 230) ;
+    color: rgb(1, 4, 6);
+    border-radius: 20px;
+    margin: 0px 40px 20px 20px;
+    text-align: center;
+    font-size: 25px;
+  
+
+    
+
+   
+}
+
+button:hover{
+    background-color: rgb(14, 255, 1);
+  
+}   
+.playerchose{
+    margin: auto;
+    
+}
+.computerplayerchose{
+    background-color: lightslategrey;
+    margin: auto;
+    text-align: center;
+    height: auto;
+    width: 300px;
+    border-radius: 25px; 
+}
+.score{
+    margin: auto;
+    text-align: center;
+    background-color: lightslategrey;
+    
+    width: 300px;
+    border-radius: 25px;
+}
+.betray{
+    margin:   auto;
+    width: 130px;
+   
+}
+
+
+
