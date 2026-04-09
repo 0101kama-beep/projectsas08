@@ -15,7 +15,6 @@ width: 800px;
 margin: auto;
 border-radius: 40px;
 height: 300px;
-box-shadow: 0 0 5px #fff5f5;
 
 
 
@@ -40,8 +39,7 @@ box-shadow: 0 0 5px #fff5f5;
 }
 .table{
     margin: auto;x  
-        font-size : 150%;
-        box-shadow: 0 0 5px #333;
+        font-size: 150%;
 }
 .button {
   margin: 0px;
@@ -67,9 +65,8 @@ button{
     border-radius: 20px;
     margin: 0px 40px 20px 20px;
     text-align: center;
-   
     font-size: 25px;
-    box-shadow: 0 0 5px #fffcfc;
+  
 
     
 
@@ -89,10 +86,8 @@ button:hover{
     margin: auto;
     text-align: center;
     height: auto;
-    width: 320px;
+    width: 300px;
     border-radius: 25px; 
-
-
 }
 .score{
     margin: auto;
